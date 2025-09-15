@@ -21,9 +21,9 @@ I'm a passionate developer with experience in **machine learning (ML)**, **deep 
 
 ## 📊 GitHub Stats
 
-![Moskov-1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moskov-1&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moskov-1&layout=compact&theme=radical)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moskov-1&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Moskov-1&theme=vision_friendly_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Moskov-1&theme=vision_friendly_dark)
 ---
 
 *Let's connect and build something awesome together!*
