@@ -20,19 +20,12 @@ I'm a passionate developer with experience in **machine learning (ML)**, **deep 
 ---
 
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<div style="display: flex; gap: 20px;">
-  <div>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moskov-1&theme=github_dark" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Moskov-1&theme=vision_friendly_dark" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Moskov-1&theme=vision_friendly_dark" />
-  </div>
-  <div>
-    <a href="https://app.daily.dev/raihanrony">
-      <img src="https://api.daily.dev/devcards/v2/xHBhGR79V0wUsLNPuGF9f.png?type=default&r=7s9" width="356" alt="Raihan Rony's Dev Card"/>
-    </a>
-  </div>
-</div>
+| GitHub Stats | Dev Card |
+|--------------|----------|
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moskov-1&theme=github_dark" /><br><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Moskov-1&theme=vision_friendly_dark" /><br><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Moskov-1&theme=vision_friendly_dark" /> | <a href="https://app.daily.dev/raihanrony"><img src="https://api.daily.dev/devcards/v2/xHBhGR79V0wUsLNPuGF9f.png?type=default&r=7s9" width="356" alt="Raihan Rony's Dev Card"/></a> |
+
 ---
 
 *Let's connect and build something awesome together!*
