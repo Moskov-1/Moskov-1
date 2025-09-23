@@ -16,7 +16,7 @@ I'm a passionate developer with experience in **machine learning (ML)**, **deep 
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihan-rony-a461121a1/)
-
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:111raihanrony111@gmail.com)
 ---
 
 
