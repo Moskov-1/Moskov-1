@@ -15,11 +15,10 @@ I'm a passionate developer with experience in **machine learning (ML)**, **deep 
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihan-rony-a461121a1/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:111raihanrony111@gmail.com)
----
-
-
+<p align="left">
+  <a href="mailto111raihanrony111@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <a href="https://www.linkedin.com/in/raihan-rony-a461121a1/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+</p>
 ## 📊 GitHub Stats
 
 | GitHub Stats | Dev Card |
