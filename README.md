@@ -26,7 +26,8 @@ I'm a passionate developer with experience in **machine learning (ML)**, **deep 
 
 | GitHub Stats | Dev Card |
 |--------------|----------|
-| <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moskov-1&theme=github_dark" /><br><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Moskov-1&theme=vision_friendly_dark" /><br><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Moskov-1&theme=vision_friendly_dark" /> | <a href="https://app.daily.dev/raihanrony"><img src="https://api.daily.dev/devcards/v2/xHBhGR79V0wUsLNPuGF9f.png?type=default&r=7s9" width="356" alt="Raihan Rony's Dev Card"/></a> |
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moskov-1&theme=github_dark" /><br><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Moskov-1&theme=vision_friendly_dark" /><br><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Moskov-1&theme=vision_friendly_dark" /><br>![Moskov-1's Stats](https://github-readme-stats.vercel.app/api?username=Moskov-1&theme=github_dark&show_icons=true&hide_border=true&count_private=true) | <a href="https://app.daily.dev/raihanrony"><img src="https://api.daily.dev/devcards/v2/xHBhGR79V0wUsLNPuGF9f.png?type=default&r=7s9" width="356" alt="Raihan Rony's Dev Card"/></a> |
+
 
 ---
 
