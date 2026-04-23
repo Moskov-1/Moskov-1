@@ -16,9 +16,16 @@ I'm a passionate developer with experience in **machine learning (ML)**, **deep 
 ## 📫 Connect with me
 
 <p align="left">
-  <a href="mailto111raihanrony111@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-  <a href="https://www.linkedin.com/in/raihan-rony-a461121a1/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="mailto:111raihanrony111@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/raihan-rony-a461121a1/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
 </p>
+
+### 📈 GitHub Activity
+![My GitHub Activity](https://activity-reader.vercel.app/graph/Moskov-1)
 
 ---
 
