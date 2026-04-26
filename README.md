@@ -6,7 +6,7 @@ I'm a passionate developer with experience in **machine learning (ML)**, **deep 
 
 ## 🚀 Skills
 
-- Machine Learning (ML)
+- DevOps
 - Deep Learning (DL)
 - Python
 - Laravel
@@ -24,7 +24,8 @@ I'm a passionate developer with experience in **machine learning (ML)**, **deep 
   </a>
 </p>
 
-### 📈 GitHub Activity
+### 📈 GitHub Activity (2025-2026)
+
 ![My GitHub Activity](https://activity-reader.vercel.app/graph/Moskov-1)
 
 ---
